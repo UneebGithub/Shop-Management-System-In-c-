@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="shopmansqlfile">
+  <DataContextMoniker Name="/shopmansqlfileDataContext" />
+  <nestedChildShapes>
+    <classShape Id="52fe1c56-9a04-4f04-bda6-68470472f327" absoluteBounds="0.5, 1.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/shopmansqlfileDataContext/additem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3afe37f3-dea9-46a8-8719-5d3760f145a8" absoluteBounds="0.515, 1.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9ac5b404-82bc-43c9-b84b-575988159198" absoluteBounds="4.375, 3.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/shopmansqlfileDataContext/CustomerManagement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="387c004b-a30b-4d08-8e6f-39eeb329bb3b" absoluteBounds="4.39, 3.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7de4ea2f-b7d7-4091-bae5-8c8b3c9d523c" absoluteBounds="5.375, 0.875, 2, 2.5401025390625">
+      <DataClassMoniker Name="/shopmansqlfileDataContext/EmployeeManagement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d6efecfc-3948-484f-9a86-090074e713e5" absoluteBounds="5.39, 1.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="315b8c20-85c5-4c5e-be2c-17b8f120e640" absoluteBounds="4, 1.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/shopmansqlfileDataContext/LoanersManagement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a01985f0-87ac-4d3e-9070-efba98b17fb3" absoluteBounds="4.015, 1.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c39d5f33-4f13-4493-bfd8-49a937dca724" absoluteBounds="1, 3.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/shopmansqlfileDataContext/signup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e4c80805-ff86-42a5-864d-b0195af36637" absoluteBounds="1.0150000000000001, 4.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="be05f2c0-ac11-4938-a868-f007745e4c83" absoluteBounds="3.5, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/shopmansqlfileDataContext/SupplierManagement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f3a7a2f4-22e1-4290-81e5-842c6217cf4a" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

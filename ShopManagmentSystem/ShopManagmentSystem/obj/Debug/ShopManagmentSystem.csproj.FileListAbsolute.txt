@@ -1,0 +1,57 @@
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\bin\Debug\ShopManagmentSystem.exe.config
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\bin\Debug\ShopManagmentSystem.exe
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\bin\Debug\ShopManagmentSystem.pdb
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.AssemblyReference.cache
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Form1.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Properties.Resources.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.GenerateResource.cache
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.CoreCompileInputs.cache
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.exe
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.pdb
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Login.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Signup.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.forgetpass.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.ShopForm.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.AddItems.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.customer_management.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.supplier.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Loaners.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Employee.resources
+D:\study\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.displaydata.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.AssemblyReference.cache
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.AddItems.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.customer_management.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.displaydata.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Employee.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.forgetpass.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Form1.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Loaners.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Login.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Properties.Resources.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.ShopForm.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Signup.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.supplier.resources
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.GenerateResource.cache
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.CoreCompileInputs.cache
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.exe
+D:\study\5th semestere content\VISUAL PROGRAMMING\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.pdb
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.AddItems.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.customer_management.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.displaydata.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Employee.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.forgetpass.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Form1.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Loaners.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Login.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Properties.Resources.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.ShopForm.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.Signup.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.supplier.resources
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.GenerateResource.cache
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.exe
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\obj\Debug\ShopManagmentSystem.pdb
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\bin\Debug\ShopManagmentSystem.exe.config
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\bin\Debug\ShopManagmentSystem.exe
+C:\Users\UNEEB\Downloads\ShopManagmentSystem\ShopManagmentSystem\bin\Debug\ShopManagmentSystem.pdb
